@@ -1,0 +1,3 @@
+MM2 : 	loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/mm2-foggy/main/script"))()
+Built A Boat For A Treasure : 	loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/builtaboataf/main/bab"))()
+Arsenal : 	loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/arsenal/refs/heads/main/script"))()
