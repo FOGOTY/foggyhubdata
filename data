@@ -2,3 +2,4 @@ MM2 : 	loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/mm2-fog
 Built A Boat For A Treasure : 	loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/builtaboataf/main/bab"))()
 Arsenal : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/arsenal/refs/heads/main/script"))()
 Tower Of Hell : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/TOH-Foggy/refs/heads/main/script"))()
+Legends Of Speed : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/foggy-speedlegend/refs/heads/main/script"))()
