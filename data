@@ -4,3 +4,4 @@ Arsenal : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/arse
 Tower Of Hell : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/TOH-Foggy/refs/heads/main/script"))()
 Legends Of Speed : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/foggy-speedlegend/refs/heads/main/script"))()
 elementary power tycoon : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/foggy-elementalpowtoc/refs/heads/main/script"))()
+fisch : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/fisch/refs/heads/main/script"))()
