@@ -5,3 +5,4 @@ Tower Of Hell : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOT
 Legends Of Speed : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/foggy-speedlegend/refs/heads/main/script"))()
 elementary power tycoon : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/foggy-elementalpowtoc/refs/heads/main/script"))()
 fisch : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/fisch/refs/heads/main/script"))()
+obby on bike : 	loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/obbyonbike/refs/heads/main/script"))()
