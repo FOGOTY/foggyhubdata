@@ -8,3 +8,4 @@ fisch : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/fisch/
 obby on bike : 	loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/obbyonbike/refs/heads/main/script"))()
 broken bones 4 : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/foggy-brokenbones4/refs/heads/main/script"))()
 blox fruits : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/foggy-bloxfruit/refs/heads/main/script"))()
+blade ball: loadstring(game:HttpGet('https://raw.githubusercontent.com/FOGOTY/blade-ball/main/BBscript'))()
