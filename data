@@ -10,4 +10,4 @@ broken bones 4 : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGO
 blox fruits : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/foggy-bloxfruit/refs/heads/main/script"))()
 blade ball : loadstring(game:HttpGet('https://raw.githubusercontent.com/FOGOTY/blade-ball/main/BBscript'))()
 rivals : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/rivals/refs/heads/main/script"))()
-dead rails: loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/FoggyHub-deadrails/refs/heads/main/script"))()
+dead rails : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/FoggyHub-deadrails/refs/heads/main/script"))()
