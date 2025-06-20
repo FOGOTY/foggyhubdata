@@ -11,3 +11,4 @@ blox fruits : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/
 blade ball : loadstring(game:HttpGet('https://raw.githubusercontent.com/FOGOTY/blade-ball/main/BBscript'))()
 rivals : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/rivals/refs/heads/main/script"))()
 dead rails : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/FoggyHub-deadrails/refs/heads/main/script"))()
+slap battles : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/slap-god/main/script"))()
