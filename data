@@ -13,3 +13,4 @@ rivals : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/rival
 dead rails : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/FoggyHub-deadrails/refs/heads/main/script"))()
 slap battles : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/slap-god/main/script"))()
 brookhaven : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/brookhaven/refs/heads/main/script"))()
+99 nights in forest: loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/99nights/refs/heads/main/script"))()
