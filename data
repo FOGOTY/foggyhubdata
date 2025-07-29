@@ -15,3 +15,4 @@ slap battles : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY
 brookhaven : loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/brookhaven/refs/heads/main/script"))()
 99 nights in forest: loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/99nights/refs/heads/main/script"))()
 grow a garden: loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/gag/refs/heads/main/script"))()
+steal a brainrot: loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/stealabrainrot/refs/heads/main/script"))()
