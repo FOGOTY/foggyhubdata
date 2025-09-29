@@ -18,3 +18,4 @@ grow a garden: loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY
 steal a brainrot: loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/stealabrainrot/refs/heads/main/script"))()
 muscle legends: loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/musclelegends/refs/heads/main/script"))()
 restaurant tycoon 3: loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/restauranttycoon3/refs/heads/main/script"))()
+plants vs brainrots: loadstring(game:HttpGet("https://raw.githubusercontent.com/FOGOTY/plants-vs-brainrots/refs/heads/main/script"))()
